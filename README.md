@@ -12,4 +12,4 @@ Para lograr una correcta fluidez en el desarrollo del taller, es **indispensable
 En esta sección se encuentran los snippets utilizados en el taller de uso común.
 
 * [Taller parte 1: Layouts](https://gist.github.com/marcherdiego/93950f999ef26902f28520eba154274c)
-* [Taller parte 1: Layouts](https://gist.github.com/marcherdiego/93950f999ef26902f28520eba154274c)
+* [Taller parte 2: Uso del hardware](https://gist.github.com/marcherdiego/bde9ba8986db080d33b37863b39e240e)
