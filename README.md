@@ -6,7 +6,7 @@ Para lograr una correcta fluidez en el desarrollo del taller, es **indispensable
 
 * Android Studio 2.2 (o superior) [**Descargar.**](https://developer.android.com/studio/index.html)
 * Crear un proyecto vacío (hello world), para que se descarguen las librerías comunes.
-* Crear un dispositivo vietual en elemulador integrado de Android Studio con imagen de Android versión 5 (Lollipop).
+* Crear un dispositivo virtual en el emulador integrado de Android Studio con imagen de Android versión 5 (Lollipop).
 * Ejecutar proyecto vacío para asegurar el correcto funcionamiento del emulador.
 
 # Gists
